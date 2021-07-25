@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mac4future called Mac.
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning to code the pro0graming.
+- 🌱 I’m currently learning to code the programing.
 - 💞️ I’m looking to collaborate on hack your future institution.
 - 📫 Reach me through mail maacdual@gmail.com
 
